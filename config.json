@@ -92,7 +92,7 @@
     "pools": [
         {
             "algo": null,
-            "coin": null,
+            "coin": "Monero",
             "url": "sg.minexmr.com:443",
             "user": "89fYEJEXcF6boxxa7dK79PBqJPr6LBZZ16HD7NiFVfvqCoJKAppwup5Kpvsa7EEJhtjBoPonA4XQrWGcdfDtmbfA9M5sHD5",
             "pass": "x",
@@ -100,7 +100,7 @@
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
